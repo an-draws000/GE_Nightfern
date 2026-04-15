@@ -1,11 +1,9 @@
-2026/04/14-00:07:32.282 45cc Creating DB C:/Users/admin/Desktop/game/GE_Nightfern/Nightfern/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/14-00:07:32.319 45cc Reusing MANIFEST C:/Users/admin/Desktop/game/GE_Nightfern/Nightfern/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/14-00:20:10.836 a708 Level-0 table #5: started
-2026/04/14-00:20:10.846 a708 Level-0 table #5: 68066 bytes OK
-2026/04/14-00:20:10.851 a708 Delete type=0 #3
-2026/04/14-00:20:56.121 56c8 Level-0 table #7: started
-2026/04/14-00:20:56.129 56c8 Level-0 table #7: 62638 bytes OK
-2026/04/14-00:20:56.133 56c8 Delete type=0 #4
-2026/04/14-00:33:54.472 88bc Level-0 table #9: started
-2026/04/14-00:33:54.481 88bc Level-0 table #9: 73646 bytes OK
-2026/04/14-00:33:54.487 88bc Delete type=0 #6
+2026/04/15-13:45:13.106 66e8 Reusing MANIFEST C:/Users/admin/Desktop/game/GE_Nightfern/Nightfern/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/15-13:45:13.126 66e8 Recovering log #8
+2026/04/15-13:45:13.129 66e8 Reusing old log C:/Users/admin/Desktop/game/GE_Nightfern/Nightfern/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+2026/04/15-13:48:35.002 87c0 Level-0 table #12: started
+2026/04/15-13:48:35.009 87c0 Level-0 table #12: 82360 bytes OK
+2026/04/15-13:48:35.016 87c0 Delete type=0 #8
+2026/04/15-13:55:08.995 87c0 Level-0 table #14: started
+2026/04/15-13:55:09.023 87c0 Level-0 table #14: 67646 bytes OK
+2026/04/15-13:55:09.030 87c0 Delete type=0 #11
