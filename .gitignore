@@ -73,3 +73,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Nightfern/Saved/Autosaves/Game/Fab/Clay_vase_photogrammetry_scan_-_Lowpoly/clay_vase_photogrammetry_scan_lowpoly_texture_2_Auto1.uasset
+Nightfern/Saved/Autosaves/Game/Fab/Clay_vase_photogrammetry_scan_-_Lowpoly/final-retopo-unwrap-reporojected-3900triangles_u1_v1_Auto1.uasset
+Binaries/
+Build/
+Saved/
+Intermediate/
+DerivedDataCache/
+*.pdb
+*.ucas
+*.utoc
+*.pak
+*.ushaderbytecode
