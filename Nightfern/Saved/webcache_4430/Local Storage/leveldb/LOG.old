@@ -1,36 +1,15 @@
-2026/05/25-19:46:01.391 4bdc Reusing MANIFEST C:/Users/admin/Desktop/game/game/Nightfern/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/05/25-19:46:01.413 4bdc Recovering log #3
-2026/05/25-19:46:01.415 4bdc Reusing old log C:/Users/admin/Desktop/game/game/Nightfern/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-2026/05/25-20:36:57.616 2228 Level-0 table #5: started
-2026/05/25-20:36:57.629 2228 Level-0 table #5: 67075 bytes OK
-2026/05/25-20:36:57.634 2228 Delete type=0 #3
-2026/05/25-20:43:40.088 5fe0 Level-0 table #7: started
-2026/05/25-20:43:40.103 5fe0 Level-0 table #7: 69145 bytes OK
-2026/05/25-20:43:40.107 5fe0 Delete type=0 #4
-2026/05/25-22:45:33.161 6468 Level-0 table #9: started
-2026/05/25-22:45:33.170 6468 Level-0 table #9: 71438 bytes OK
-2026/05/25-22:45:33.175 6468 Delete type=0 #6
-2026/05/25-22:48:34.142 5824 Level-0 table #11: started
-2026/05/25-22:48:34.149 5824 Level-0 table #11: 70786 bytes OK
-2026/05/25-22:48:34.152 5824 Delete type=0 #8
-2026/05/25-22:50:54.907 69c8 Level-0 table #13: started
-2026/05/25-22:50:54.915 69c8 Level-0 table #13: 66269 bytes OK
-2026/05/25-22:50:54.919 69c8 Delete type=0 #10
-2026/05/25-22:52:53.967 2818 Level-0 table #15: started
-2026/05/25-22:52:53.975 2818 Level-0 table #15: 71626 bytes OK
-2026/05/25-22:52:53.981 2818 Delete type=0 #12
-2026/05/25-22:52:53.983 2818 Compacting 4@0 + 1@1 files
-2026/05/25-22:52:53.993 2818 Generated table #16@0: 4 keys, 18511 bytes
-2026/05/25-22:52:53.993 2818 Compacted 4@0 + 1@1 files => 18511 bytes
-2026/05/25-22:52:53.995 2818 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/25-22:52:53.998 2818 Delete type=2 #7
-2026/05/25-22:52:53.998 2818 Delete type=2 #9
-2026/05/25-22:52:53.998 2818 Delete type=2 #11
-2026/05/25-22:52:53.998 2818 Delete type=2 #13
-2026/05/25-22:52:53.998 2818 Delete type=2 #15
-2026/05/25-22:54:19.778 4db0 Level-0 table #18: started
-2026/05/25-22:54:19.786 4db0 Level-0 table #18: 77514 bytes OK
-2026/05/25-22:54:19.790 4db0 Delete type=0 #14
-2026/05/25-22:54:46.661 2818 Level-0 table #20: started
-2026/05/25-22:54:46.669 2818 Level-0 table #20: 63226 bytes OK
-2026/05/25-22:54:46.672 2818 Delete type=0 #17
+2026/05/27-10:38:46.576 493c Reusing MANIFEST C:/Users/admin/Desktop/game/game/Nightfern/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/27-10:38:46.601 493c Recovering log #23
+2026/05/27-10:38:46.603 493c Reusing old log C:/Users/admin/Desktop/game/game/Nightfern/Saved/webcache_4430\Local Storage\leveldb/000023.log 
+2026/05/27-10:40:50.448 6b4 Level-0 table #26: started
+2026/05/27-10:40:50.455 6b4 Level-0 table #26: 71463 bytes OK
+2026/05/27-10:40:50.460 6b4 Delete type=0 #23
+2026/05/27-10:40:50.462 6b4 Compacting 4@0 + 1@1 files
+2026/05/27-10:40:50.470 6b4 Generated table #27@0: 4 keys, 24399 bytes
+2026/05/27-10:40:50.470 6b4 Compacted 4@0 + 1@1 files => 24399 bytes
+2026/05/27-10:40:50.471 6b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/27-10:40:50.473 6b4 Delete type=2 #16
+2026/05/27-10:40:50.473 6b4 Delete type=2 #18
+2026/05/27-10:40:50.473 6b4 Delete type=2 #20
+2026/05/27-10:40:50.473 6b4 Delete type=2 #22
+2026/05/27-10:40:50.473 6b4 Delete type=2 #26
